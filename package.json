@@ -1,0 +1,30 @@
+{
+  "name": "crypto_roi_calculator",
+  "version": "1.0.0",
+  "description": "CryptoRoiCalculator pwa app allows you to calculate profit or loss on your investments.",
+  "author": "farhankk360",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "next-themes": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "next-pwa": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.4",
+    "@types/react": "17.0.38",
+    "@types/react-dom": "^17.0.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.1",
+    "tailwindcss": "^3.0.7",
+    "typescript": "4.5.4"
+  }
+}
